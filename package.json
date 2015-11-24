@@ -1,0 +1,27 @@
+{
+  "name": "node-xmpp",
+  "version": "1.0.0",
+  "description": "node xmpp clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun Arora",
+  "license": "ISC",
+  "dependencies": {
+    "ltx": "^2.1.1",
+    "node-xmpp-client": "^3.0.0",
+    "node-xmpp-component": "^1.0.0",
+    "node-xmpp-core": "^4.2.0",
+    "node-xmpp-server": "^2.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tananrules/node-xmpp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tananrules/node-xmpp/issues"
+  },
+  "homepage": "https://github.com/tananrules/node-xmpp#readme"
+}
