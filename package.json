@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ltx": "^2.1.1",
+    "node-uuid": "^1.4.7",
     "node-xmpp-client": "^3.0.0",
     "node-xmpp-component": "^1.0.0",
     "node-xmpp-core": "^4.2.0",
